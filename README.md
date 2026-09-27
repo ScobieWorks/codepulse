@@ -40,6 +40,8 @@ The core logic lives in `metrics.py`.  Adding support for other languages would 
 
 MIT
 
+<!-- ORION-MONETIZATION:START -->
 ## Support
 
-If this project saved you time, optional support is welcome: https://paypal.me/Damonwill
+If you find CodePulse helpful, please consider supporting its continued development with a $5 donation: https://paypal.me/Damonwill. Your contribution helps maintain the tool and enables optional support for contributors.
+<!-- ORION-MONETIZATION:END -->
